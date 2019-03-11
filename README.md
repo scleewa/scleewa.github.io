@@ -1,4 +1,4 @@
-# scleewa's hobby projects
+# scl's hobby projects
 
 [Impossible objects](https://scleewa.github.io/impossible-object)  
 an interactive demonstration of impossible objects  
