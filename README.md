@@ -5,10 +5,3 @@ an interactive demonstration of impossible objects
 
 [![Impossible objects](https://scleewa.github.io/impossible-object/penrosetriangle.png)](https://scleewa.github.io/impossible-object)  
 
-
-
-[Arcade Volleyball Again](https://scleewa.github.io/ava)  
-a web version of the classic game, Arcade Volleyball
-
-[![Arcade Volleyball Again](https://scleewa.github.io/ava/ava.png)](https://scleewa.github.io/ava)  
-
